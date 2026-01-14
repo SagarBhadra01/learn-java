@@ -1,5 +1,3 @@
-package OOP;
-
 public class GetterMethod {
     private String name;
     private int age;

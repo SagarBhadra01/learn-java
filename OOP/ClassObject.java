@@ -1,5 +1,3 @@
-package OOP;
-
 public class ClassObject {
     public static void main(String[] args) {
         // Create objects of the Car class

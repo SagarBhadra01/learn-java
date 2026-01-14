@@ -1,5 +1,3 @@
-package OOP;
-
 public class ToStringMethod {
     String make;
     String model;

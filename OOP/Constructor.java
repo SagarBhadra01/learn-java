@@ -1,5 +1,3 @@
-package OOP;
-
 public class Constructor {
     public static void main(String[] args) {
         // Creating Student objects

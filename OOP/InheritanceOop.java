@@ -1,5 +1,3 @@
-package OOP;
-
 // Parent class
 class Animal {
     void sound() {

@@ -1,4 +1,3 @@
-package OOP;
 public class EncapsulationOop {
     public static void main(String[] args) {
         // Creating a Person object
